@@ -41,6 +41,9 @@ Feel free to check or try every one out!
 
 Chlorine V1.5
 
+https://www.icloud.com/shortcuts/f07331b4daa445ab861ce3ccf1b91c9b
+That updated fast!
+
 
 
 
