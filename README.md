@@ -21,4 +21,18 @@ updates and is not intended for harm!
 Please. Fell free to give any ideas or
 things we can fix! thank you for taking
 your time!
+
+
+I mean i guess you could still think it is 
+a virus due to what it does but no jokes ok?
+The shortcuts app cannot create or redirect
+to apps with malicious code due to this app just
+useful for creating shortcuts!
+
+
+
+
+
+Down below are all available version!
+Feel free to check or try every one out!
  
