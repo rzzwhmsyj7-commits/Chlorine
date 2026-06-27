@@ -38,7 +38,9 @@ Feel free to check or try every one out!
 
 Chlorine V1
 
-
+https://www.icloud.com/shortcuts/38cab6efecfb4d72b8ced2f2e1216361
+Next update! added more flashes and less popups!
+Somebody joined the group! :)
 
 
 Chlorine V0.5.3
