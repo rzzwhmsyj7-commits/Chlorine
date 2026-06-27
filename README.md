@@ -30,6 +30,12 @@ to apps with malicious code due to this app just
 useful for creating shortcuts!
 
 
+Chlorine was actually heavily inspired
+by the so called "Moo Virus" which uses
+the shortcuts app to make your phone go
+crazy! pretty cool right?
+
+
 
 
 
