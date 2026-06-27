@@ -36,6 +36,12 @@ the shortcuts app to make your phone go
 crazy! pretty cool right?
 
 
+This is open source so comment any
+ideas or modify it yourself! feel free
+to do any of these for yourself for 
+experimenting new things!
+
+
 
 
 
