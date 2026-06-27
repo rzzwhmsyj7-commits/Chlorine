@@ -33,39 +33,3 @@ useful for creating shortcuts!
 
 
 
-Down below are all available version!
-Feel free to check or try every one out!
-
-
-Chlorine V1.3
-
-https://www.icloud.com/shortcuts/daed2d26be6642b5aa8cfd69f47b4d6f
-Fixed some bugs regarding that the 
-popups would stop the shortcut. added
-voice text with siri voice, also added 
-more effects like white point and max 
-volume!
-
-Chlorine V1
-
-https://www.icloud.com/shortcuts/38cab6efecfb4d72b8ced2f2e1216361
-Next update! added more flashes and
-less popups, Plus added it so it made 
-you open control center making it 
-harder to stop it!
-Somebody joined the group! :)
-
-
-Chlorine V0.5.3
-
-https://www.icloud.com/shortcuts/f07331b4daa445ab861ce3ccf1b91c9b
-That updated fast!
-
-
-
-
-Chlorine V0.5
-
-https://www.icloud.com/shortcuts/2adffe01d26f494aafde4aed213df918
-Makes your phone go crazy i guess
- 
