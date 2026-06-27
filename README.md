@@ -36,10 +36,12 @@ useful for creating shortcuts!
 Down below are all available version!
 Feel free to check or try every one out!
 
+Chlorine V1
 
 
 
-Chlorine V1.5
+
+Chlorine V0.5.3
 
 https://www.icloud.com/shortcuts/f07331b4daa445ab861ce3ccf1b91c9b
 That updated fast!
@@ -47,7 +49,7 @@ That updated fast!
 
 
 
-Chlorine V1
+Chlorine V0.5
 
 https://www.icloud.com/shortcuts/2adffe01d26f494aafde4aed213df918
 Makes your phone go crazy i guess
